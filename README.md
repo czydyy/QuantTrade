@@ -26,5 +26,8 @@ ssh-keygen -t rsa -b 4096
 ```
 
 复制**C://user/zychen/.ssh/id_rsa.pub** 中的内容到阿里云云服务器上 **/root/.ssh/authorized_keys**  文件中
-### 代码规范 和 命名规则
+
+### 使用git做代码同步
+
+## 代码规范 和 命名规则
 代码规范和命名规则，都参考《google cpp style guide》
